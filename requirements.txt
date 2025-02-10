@@ -1,0 +1,7 @@
+streamlit 
+SpeechRecognition 
+pyttsx3 
+wikipedia 
+pywhatkit 
+pyjokes
+g4f[all]
